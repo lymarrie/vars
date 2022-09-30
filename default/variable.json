@@ -1,6 +1,6 @@
 
 {
-    "$schema": "https://schema.yext.com/config/variable",
+    "$schema": "https://schema.yext.com/config/variable/v1",
     "$id": "helen-variable",
     "type": "number",
     "toolTip": "yahzzzzzz",
