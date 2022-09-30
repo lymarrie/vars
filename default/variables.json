@@ -1,0 +1,15 @@
+
+{
+    "$schema": "https://schema.yext.com/config/vars",
+    "$id": "helen-variables",
+    "helenVariable": {
+        "type": "number",
+        "toolTip": "yahzzzzzz",
+        "displayName": "number nahzzzzzzzzz"
+    },
+    "helenVariable2": {
+        "type": "boolean",
+        "toolTip": "trueskis or falsepiece",
+        "displayName": "boolean nahzzzzzz"
+    }
+}
