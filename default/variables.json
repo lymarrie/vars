@@ -1,7 +1,7 @@
 
 {
-    "$schema": "https://schema.yext.com/config/vars",
-    "$id": "helen-variables",
+    "$id": "helen-variable",
+    "$schema": "https://schema.yext.com/config/vars/v1",
     "helenVariable": {
         "type": "number",
         "toolTip": "yahzzzzzz",
